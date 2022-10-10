@@ -28,6 +28,5 @@ Figure 3. There are number of titles being counted with each title name. This sh
 Figure 4. There are 1,549 people who are going to be getting ready to retire. These are the people who can mentor the incoming people. 
 
 ## Summary
-There would need 72458 roles to be filled as the "silver tsunami" begins to make an impact. This can be seen in the unique titles table from the number of rows. 
-There are not enough qualified retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. There is only 1,549 retirement-ready employees. The number of retirement-ready employees is on mentorship_eligibility table. 
+There would need 72458 roles to be filled as the "silver tsunami" begins to make an impact. This can be seen in the unique titles table from the number of rows. There are not enough qualified retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. There is only 1,549 retirement-ready employees. The number of retirement-ready employees is on mentorship_eligibility table. That means that there is a gap of 70909 employees that are ready to have the retirement package that won't be training the new employees.
 
